@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "laravel-boost": {
+      "command": "/opt/homebrew/Cellar/php@8.4/8.4.27/bin/php",
+      "args": [
+        "/Users/diveshahuja/Projects/web/coding-pathshala-tutorials/chat/artisan",
+        "boost:mcp"
+      ]
+    }
+  }
+}
